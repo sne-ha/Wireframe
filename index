@@ -1,0 +1,15 @@
+<html>
+<title>
+Welcome to MindChamp!
+</title>
+<head>
+</head>
+<body>
+</body>
+<center>
+<h1> Welcome to MindChamp! </h1>
+<form>
+  Email ID <input type="text" name="email"><br>
+  Password <input type="password" name="password"><br>
+</form>
+</html>

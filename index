@@ -2,10 +2,7 @@
 <title>
 Welcome to MindChamp!
 </title>
-<head>
-</head>
 <body>
-<center>
 <h1> Welcome to MindChamp! </h1>
 <form>
   Email ID <input type="text" name="email"><br>
